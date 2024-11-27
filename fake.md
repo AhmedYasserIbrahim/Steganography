@@ -1,1 +1,1 @@
-You have been Hacked!
+# You have been hacked
